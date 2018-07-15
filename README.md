@@ -1,5 +1,5 @@
-JavaFX Hello World Demo
-=======================
+JavaFX ComboBox Demo
+====================
 
-Show a window with `Hello, JavaFX` label.
+Run `Hello.java` in your IDE.
 
